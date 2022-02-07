@@ -1,2 +1,2 @@
-# threejs_test
-# run index.html to see magic
+## threejs_test
+run index.html to see magic
